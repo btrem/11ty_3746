@@ -6,6 +6,6 @@ layout: base.liquid
 
 Lorem ipsum dolor sit amet.
 
-{% myImage "images/foo.png" %}
+{% myImage "image_src/foo.png" %}
 
 More lorem ipsum.
