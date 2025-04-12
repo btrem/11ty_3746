@@ -1,0 +1,24 @@
+{
+  "name": "11ty_3746",
+  "version": "1.0.0",
+  "description": "Demo of solution for 11ty discussion 3746.",
+  "main": "eleventy.config.js",
+  "scripts": {
+    "start": "ELEVENTY_ENV=development npx eleventy --serve --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btrem/11ty_3746.git"
+  },
+  "author": "Brian Tremblay",
+  "license": "CC0-1.0 license",
+  "bugs": {
+    "url": "https://github.com/btrem/11ty_3746/issues"
+  },
+  "homepage": "https://github.com/btrem/11ty_3746#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.2"
+  }
+}
